@@ -1,8 +1,11 @@
+import HomeHeader from "@/components/HomeHeader";
 
 export default function Home() {
   return (
    <>
-       <h2>Hello</h2>
+       <HomeHeader/>
+
+
    </>
   );
 }
